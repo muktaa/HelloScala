@@ -2,7 +2,7 @@ name := "hello-scala"
 
 version := "1.4"
 
-organization := "fakepath.test"
+organization := "learn.scala"
 
 scalaVersion := "2.11.1"
 
