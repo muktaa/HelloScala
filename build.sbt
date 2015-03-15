@@ -7,7 +7,7 @@ oneJarSettings
 
 name := "hello-scala"
 
-version := "1.4.3"
+version := "1.4.4"
 
 organization := "muktaa"
 
