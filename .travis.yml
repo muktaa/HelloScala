@@ -7,5 +7,5 @@ before_install:
 script:
 - sbt publish
 - sudo chmod 600 /tmp/key.pem
-- ssh -o StrictHostKeyChecking=no ubuntu@@52.11.177.152 -i /tmp/key.pem sh run_command.sh
+- ssh -o StrictHostKeyChecking=no ubuntu@52.11.177.152 -i /tmp/key.pem sh run_command.sh
 
